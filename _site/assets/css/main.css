@@ -3197,6 +3197,7 @@
 
 	}
 
+/*Main Page CSS*/
 
 	.previewImg{
 		width:100%;
@@ -3210,4 +3211,10 @@
 
 	#designButton{
 		margin-top: 5%;
+
 	}
+
+/*Project Updates Page CSS*/
+.updateImg{
+	width:45%;
+}
